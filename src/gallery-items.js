@@ -17,7 +17,7 @@ export default [
     preview:
       'https://cdn.pixabay.com/photo/2020/07/26/20/46/mountains-5440720__340.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2020/07/01/19/01/cycling-5360648_1280.jpg',
+      'https://cdn.pixabay.com/photo/2020/07/26/20/46/mountains-5440720_1280.jpg',
     description: 'Aerial Beach View',
   },
   {
